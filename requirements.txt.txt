@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+PyPDF2
+faiss-cpu
+numpy
+sentence-transformers
+google-generativeai
+python-docx
+openpyxl
+python-pptx
